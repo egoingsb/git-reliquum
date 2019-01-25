@@ -8,7 +8,7 @@
 잘 하면 된다.
 
 # conflict가 발생하는 이유
-서로
+서로 고쳐서
 
 # 추천 외부 병합 도구
 kdiff, beyond compare

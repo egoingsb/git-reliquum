@@ -10,5 +10,6 @@
 # conflict가 발생하는 이유
 
 # 추천 외부 병합 도구
+beyond compare
 
 # 원격 저장소란?

@@ -13,3 +13,4 @@
 kdiff, beyond compare
 
 # 원격 저장소란?
+remote

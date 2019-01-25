@@ -5,11 +5,11 @@
 마치 평행우주 처럼 같은 버전을 공유하는 작업 들
 
 # merge하는 방법
-잘
+잘 하면 된다.
 
 # conflict가 발생하는 이유
 
 # 추천 외부 병합 도구
-kdiff
+kdiff, beyond compare
 
 # 원격 저장소란?
